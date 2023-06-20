@@ -1,0 +1,3 @@
+Hi, This is venkatarao gurram
+Here i am practising devops 
+geeksforgeeks is a good platform to learn devops
